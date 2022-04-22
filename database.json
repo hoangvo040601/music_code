@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "id":1,
+      "name":"Hoa nở không màu",
+      "singer":"Hoài Lâm",
+      "path":"./music/song1.mp3",
+      "image":"./img/image1.jpg"
+    },
+    {
+      "id":2,
+      "name":"Tình Anh",
+      "singer":"Đình Dũng",
+      "path":"./music/song2.mp3",
+      "image":"./img/image2.jpg"
+    },
+    {
+      "id":3,
+      "name":"Đừng hẹn kiếp sau.",
+      "singer":"Đình Dũng",
+      "path":"./music/song3.mp3",
+      "image":"./img/image3.jpg"
+    },
+    {
+      "id":4,
+      "name":"Đế vương",
+      "singer":"Đình Dũng",
+      "path":"./music/song4.mp3",
+      "image":"./img/image4.jpg"
+    },
+    {
+      "id":5,
+      "name":"Khuê mộc lang",
+      "singer":"Hương Ly",
+      "path":"./music/song5.mp3",
+      "image":"./img/image5.jpg"
+    },
+    {
+      "id":6,
+      "name":"Cô đơn giành cho ai đây",
+      "singer":"Lee Ken x Nal",
+      "path":"./music/song6.mp3",
+      "image":"./img/image6.jpg"
+    },
+    {
+      "id":7,
+      "name":"Hạ còn vương nắng",
+      "singer":"DATKAA x KIDO x Prod. QT BEATZ",
+      "path":"./music/song7.mp3",
+      "image":"./img/image7.jpg"
+    },
+    {
+      "id":8,
+      "name":"Thương người không thương",
+      "singer":"Phát Huy T4",
+      "path":"./music/song8.mp3",
+      "image":"./img/image8.jpg"
+    },
+    {
+      "id":9,
+      "name":"Thương em đến già",
+      "singer":"Lê Bảo Bình",
+      "path":"./music/song9.mp3",
+      "image":"./img/image9.jpg"
+    },
+    {
+      "id":10,
+      "name":"Em say rồi",
+      "singer":"Thương Võ",
+      "path":"./music/song10.mp3",
+      "image":"./img/image10.jpg"
+    }
+  ]
+}
